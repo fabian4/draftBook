@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gateway/ShenYu/ShenYu - Nacos 配置同步.md",
+                "file": "BigData/Spark/RDD算子.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gateway/ShenYu/ShenYu - Nacos 配置同步.md",
+                "file": "BigData/Spark/RDD算子.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gateway/ShenYu/ShenYu - Nacos 配置同步.md",
+                "file": "BigData/Spark/RDD算子.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gateway/ShenYu/ShenYu - Nacos 配置同步.md"
+                "file": "BigData/Spark/RDD算子.md"
               }
             }
           },
